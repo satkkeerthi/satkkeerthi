@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat)&nbsp;
+
+## Socials
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/s_s19/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/satkkeerthi-sriram/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satkkeerthi&show_icons=true&layout=compact" />
