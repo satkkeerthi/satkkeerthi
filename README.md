@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat)&nbsp;
 
 ## Socials
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/satkkeerthi/)
